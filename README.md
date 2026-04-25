@@ -41,3 +41,6 @@ User → Route 53 → CloudFront → S3 (private)
 
 ## Outcome
 Successfully deployed a secure, fast, and scalable portfolio website accessible over HTTPS using a custom domain.
+
+## Architecture Diagram
+![Architecture](architecture.png)
