@@ -1,7 +1,8 @@
 # Static Portfolio Website on AWS
 
 ## Overview
-Deployed a production-ready static portfolio website using AWS with a secure, scalable, and cost-optimized architecture.
+## Overview
+Built and deployed a static portfolio website on AWS using S3, CloudFront, and Route 53 with HTTPS and secure access configuration.
 
 ## Architecture
 User → Route 53 → CloudFront → S3 (private)
@@ -41,6 +42,9 @@ User → Route 53 → CloudFront → S3 (private)
 
 ## Outcome
 Successfully deployed a secure, fast, and scalable portfolio website accessible over HTTPS using a custom domain.
+
+## Live Demo
+https://elevateaws.com
 
 ## Architecture Diagram
 ![Architecture](architecture.png)
