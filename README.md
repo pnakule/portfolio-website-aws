@@ -1,7 +1,6 @@
 # Static Portfolio Website on AWS
 
 ## Overview
-## Overview
 Built and deployed a static portfolio website on AWS using S3, CloudFront, and Route 53 with HTTPS and secure access configuration.
 
 ## Architecture
