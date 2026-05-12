@@ -46,4 +46,4 @@ Successfully deployed a secure, fast, and scalable portfolio website accessible 
 https://elevateaws.com
 
 ## Architecture Diagram
-![Architecture](architecture.png)
+![Architecture](Architecture.jpg)
